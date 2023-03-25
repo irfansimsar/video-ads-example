@@ -1,4 +1,9 @@
 {
   "name": "VideoAds",
-  "displayName": "VideoAds"
+  "displayName": "VideoAds",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-3047771859167712~2040915148",
+    "ios_app_id": "ca-app-pub-3047771859167712~9170527756",
+    "user_tracking_usage_description": "This identifier will be used to deliver personalized ads to you."
+  }
 }

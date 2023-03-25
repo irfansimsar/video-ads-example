@@ -1,7 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 let currentTime: number = 0;
 let timer: any;
-const adPeriodInSeconds: number = 10;
+const adPeriodInSeconds: number = 20;
 
 const showAd = (callback: any) => {
   callback();
